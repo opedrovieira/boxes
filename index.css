@@ -1,0 +1,53 @@
+body {
+    width: 100%;
+    background-color: aqua;
+    align-items: center;
+    margin-top: 100px;
+}
+
+#parte1 {
+   display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#um {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-shadow: black 3px 3px 5px;
+    background-color: rgb(245, 2, 2);
+}
+#dois {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-shadow: black 3px 3px 5px;
+    background-color: rgb(60, 10, 243);
+}
+#parte2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#tres {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-shadow: black 3px 3px 5px;
+    background-color: rgb(14, 247, 6);
+}
+#quatro {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-shadow: black 3px 3px 5px;
+    background-color: rgb(253, 236, 0);
+}
